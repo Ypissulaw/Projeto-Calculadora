@@ -1,5 +1,6 @@
 # Projeto-Calculadora
 Projeto de calculadora cientifica em andamento.
 
-![Captura de tela 2024-12-04 091455](https://github.com/user-attachments/assets/8028b06d-6fde-4a88-95c5-5528b354d532)
+![Captura de tela 2024-12-04 091455](https://github.com/user-attachments/assets/ea076fa6-c469-4444-bd7e-f3b908c1ede6)
+
 
